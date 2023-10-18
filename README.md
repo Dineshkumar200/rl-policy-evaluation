@@ -31,7 +31,9 @@ def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
 ```
 # OUTPUT
 
+![Screenshot 2023-10-18 140231](https://github.com/Dineshkumar200/rl-policy-evaluation/assets/75235789/443f1657-afd2-447c-a924-4763dd02d553)
 
+![Screenshot 2023-10-18 135806](https://github.com/Dineshkumar200/rl-policy-evaluation/assets/75235789/dfdc30b2-847e-4a01-8b01-d829a0a14aa3)
 
 
 # RESULT
